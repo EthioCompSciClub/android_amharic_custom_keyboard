@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="10%p"
+    android:keyHeight="50dp">
+    <Row>
+        <Key android:keyLabel="1" android:keyEdgeFlags="left" android:codes="49"/>
+        <Key android:keyLabel="2" android:codes="50"/>
+        <Key android:keyLabel="3" android:codes="51"/>
+        <Key android:keyLabel="4" android:codes="52"/>
+        <Key android:keyLabel="5" android:codes="53"/>
+        <Key android:keyLabel="6" android:codes="54"/>
+        <Key android:keyLabel="7" android:codes="55"/>
+        <Key android:keyLabel="8" android:codes="56"/>
+        <Key android:keyLabel="9" android:codes="57"/>
+        <Key android:keyLabel="0" android:keyEdgeFlags="right" android:codes="48"/>
+    </Row>
+    <Row>
+        <Key android:keyLabel="ቅ" android:keyEdgeFlags="left" android:codes="4677"/>
+        <Key android:keyLabel="ው" android:codes="4813"/>
+        <Key android:keyLabel="እ" android:codes="4773"/>
+        <Key android:keyLabel="ር" android:codes="4653"/>
+        <Key android:keyLabel="ት" android:codes="4725"/>
+        <Key android:keyLabel="ይ" android:codes="4845"/>
+        <Key android:keyLabel="ኡ" android:codes="4769"/>
+        <Key android:keyLabel="ኢ" android:codes="4770"/>
+        <Key android:keyLabel="ኦ" android:codes="4774"/>
+        <Key android:keyLabel="ፕ" android:keyEdgeFlags="right" android:codes="4949"/>
+    </Row>
+
+    <Row> <Key android:keyLabel="Designed by" android:keyWidth="70%p" android:keyEdgeFlags="left"/> </Row>
+    <Row>
+        <Key android:horizontalGap="30%" android:keyLabel="Ethiopian Computer Science Club" android:keyWidth="70%p" android:keyEdgeFlags="right"/>
+    </Row>
+    <Row android:rowEdgeFlags="bottom">
+        <Key android:keyLabel="123/፩፪፫" android:keyWidth="20%p" android:keyEdgeFlags="left" android:codes="-2"/>
+        <Key android:keyIcon="@drawable/ic_e" android:codes="-44"/>
+        <Key android:keyLabel="፣" android:codes="4963"/>
+        <Key android:keyLabel="[_____]" android:isRepeatable="true" android:keyWidth="22%p" android:codes="32"/>
+        <Key android:keyIcon="@drawable/ic_language" android:codes="-6"/>
+        <Key android:keyLabel="።" android:codes="4962"/>
+        <Key android:keyIcon="@drawable/ic_return" android:keyWidth="18%p" android:codes="-4"/>
+    </Row>
+</Keyboard>

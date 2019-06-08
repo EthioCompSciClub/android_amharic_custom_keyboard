@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <am-lang name="am_code">
+        <item name="we"> 4808 </item> <!--ወ-->
+        <item name="wu"> 4809 </item> <!--ዉ-->
+        <item name="wi"> 4810 </item> <!--ዊ-->
+        <item name="wa"> 4811 </item> <!--ዋ-->
+        <item name="wE"> 4812 </item> <!--ዌ-->
+        <item name="w"> 4813 </item>  <!--ው-->
+        <item name="wo"> 4814 </item> <!--ዎ-->
+
+        <item name="ye"> 4840 </item> <!--የ-->
+        <item name="yu"> 4841 </item> <!--ዩ-->
+        <item name="yi"> 4842 </item> <!--ዪ-->
+        <item name="ya"> 4843 </item> <!--ያ-->
+        <item name="yE"> 4844 </item> <!--ዬ-->
+        <item name="y"> 4845 </item>  <!--ይ-->
+        <item name="yo"> 4846 </item> <!--ዮ-->
+
+        <item name="pe"> 4944 </item> <!--ፐ-->
+        <item name="pu"> 4945 </item> <!--ፑ-->
+        <item name="pi"> 4946 </item> <!--ፒ-->
+        <item name="pa"> 4947 </item> <!--ፓ-->
+        <item name="pE"> 4948 </item> <!--ፔ-->
+        <item name="p"> 4949 </item>  <!--ፕ-->
+        <item name="po"> 4950 </item> <!--ፖ-->
+        <item name="pW"> 4951 </item> <!--ፗ-->
+
+        <item name="Pe"> 4912 </item> <!--ጰ-->
+        <item name="Pu"> 4913 </item> <!--ጱ-->
+        <item name="Pi"> 4914 </item> <!--ጲ-->
+        <item name="Pa"> 4915 </item> <!--ጳ-->
+        <item name="PE"> 4916 </item> <!--ጴ-->
+        <item name="P"> 4917 </item>  <!--ጵ-->
+        <item name="Po"> 4918 </item> <!--ጶ-->
+        <item name="PW"> 4919 </item> <!--ጷ-->
+
+        <item name="ze"> 4824 </item> <!--ዘ-->
+        <item name="zu"> 4825 </item> <!--ዙ-->
+        <item name="zi"> 4826 </item> <!--ዚ-->
+        <item name="za"> 4827 </item> <!--ዛ-->
+        <item name="zE"> 4828 </item> <!--ዜ-->
+        <item name="z"> 4829 </item>  <!--ዝ-->
+        <item name="zo"> 4830 </item> <!--ዞ-->
+        <item name="zW"> 4831 </item> <!--ዟ-->
+
+        <item name="fe"> 4936 </item> <!--ፈ-->
+        <item name="fu"> 4937 </item> <!--ፉ-->
+        <item name="fi"> 4938 </item> <!--ፊ-->
+        <item name="fa"> 4939 </item> <!--ፋ-->
+        <item name="fE"> 4940 </item> <!--ፌ-->
+        <item name="f"> 4941 </item>  <!--ፍ-->
+        <item name="fo"> 4942 </item> <!--ፎ-->
+        <item name="fW"> 4943 </item> <!--ፏ-->
+
+        <item name="ke"> 4776 </item> <!--ከ-->
+        <item name="ku"> 4777 </item> <!--ኩ-->
+        <item name="ki"> 4778 </item> <!--ኪ-->
+        <item name="ka"> 4779 </item> <!--ካ-->
+        <item name="kE"> 4780 </item> <!--ኬ-->
+        <item name="k"> 4781 </item>  <!--ክ-->
+        <item name="ko"> 4782 </item> <!--ኮ-->
+        <item name="kW"> 4783 </item> <!--ኳ-->
+
+        <item name="de"> 4848 </item> <!--ደ-->
+        <item name="du"> 4849 </item> <!--ዱ-->
+        <item name="di"> 4850 </item> <!--ዲ-->
+        <item name="da"> 4851 </item> <!--ዳ-->
+        <item name="dE"> 4852 </item> <!--ዴ-->
+        <item name="d"> 4853 </item>  <!--ድ-->
+        <item name="do"> 4854 </item> <!--ዶ-->
+        <item name="dW"> 4855 </item> <!--ዷ-->
+
+        <item name="xe"> 4664 </item> <!--ሸ-->
+        <item name="xu"> 4665 </item> <!--ሹ-->
+        <item name="xi"> 4666 </item> <!--ሺ-->
+        <item name="xa"> 4667 </item> <!--ሻ-->
+        <item name="xE"> 4668 </item> <!--ሼ-->
+        <item name="x"> 4669 </item>  <!--ሽ-->
+        <item name="xo"> 4670 </item> <!--ሾ-->
+        <item name="xW"> 4671 </item> <!--ሿ-->
+
+        <item name="he"> 4608 </item> <!--ሀ-->
+        <item name="hu"> 4609 </item> <!--ሁ-->
+        <item name="hi"> 4610 </item> <!--ሂ-->
+        <item name="ha"> 4611 </item> <!--ሃ-->
+        <item name="hE"> 4612 </item> <!--ሄ-->
+        <item name="h"> 4613 </item>  <!--ህ-->
+        <item name="ho"> 4614 </item> <!--ሆ-->
+
+        <item name="le"> 4616 </item>  <!--ለ-->
+        <item name="lu"> 4617 </item>   <!--ሉ-->
+        <item name="li"> 4618 </item> <!--ሊ-->
+        <item name="la"> 4619 </item> <!--ላ-->
+        <item name="lE"> 4620 </item> <!--ሌ-->
+        <item name="l"> 4621 </item> <!--ል-->
+        <item name="lo"> 4622 </item> <!--ሎ-->
+        <item name="LW"> 4623 </item> <!--ሏ-->
+
+        <item name="He"> 4624 </item> <!--ሐ-->
+        <item name="Hu"> 4625 </item> <!--ሑ-->
+        <item name="Hi"> 4626 </item> <!--ሒ-->
+        <item name="Ha"> 4627 </item> <!--ሓ-->
+        <item name="HE"> 4628 </item> <!--ሔ-->
+        <item name="H">  4629 </item>  <!--ሕ-->
+        <item name="Ho"> 4630 </item> <!--ሖ-->
+        <item name="HW"> 4631 </item> <!--ሗ-->
+
+        <item name="me"> 4632 </item>  <!--1218-መ-->
+        <item name="mu"> 4633 </item>  <!--1219-ሙ-->
+        <item name="mi"> 4634 </item>  <!--121a-ሚ-->
+        <item name="ma"> 4635 </item>  <!--121b-ማ-->
+        <item name="mE"> 4636 </item>  <!--121c-ሜ-->
+        <item name="m"> 4637 </item>  <!--121d-ም-->
+        <item name="mo"> 4638 </item>  <!--121e-ሞ-->
+        <item name="MW"> 4639 </item>  <!--121f-ሟ-->
+
+        <!--<item name=""> 4640 </item>  &lt;!&ndash;1220-&ndash;&gt;-->
+        <!--<item name=""> 4641 </item>  &lt;!&ndash;1221-&ndash;&gt;-->
+        <!--<item name=""> 4642 </item>  &lt;!&ndash;1222-&ndash;&gt;-->
+        <!--<item name=""> 4643 </item>  &lt;!&ndash;1223-&ndash;&gt;-->
+        <!--<item name=""> 4644 </item>  &lt;!&ndash;1224-&ndash;&gt;-->
+        <!--<item name=""> 4645 </item>  &lt;!&ndash;1225-&ndash;&gt;-->
+        <!--<item name=""> 4646 </item>  &lt;!&ndash;1226-&ndash;&gt;-->
+        <!--<item name=""> 4647 </item>  &lt;!&ndash;1227-&ndash;&gt;-->
+
+        <item name="re"> 4648 </item>  <!--1228-ረ-->
+        <item name="ru"> 4649 </item>  <!--1229-ሩ-->
+        <item name="ri"> 4650 </item>  <!--122a-ሪ-->
+        <item name="ra"> 4651 </item>  <!--122b-ራ-->
+        <item name="rE"> 4652 </item>  <!--122c-ሬ-->
+        <item name="r"> 4653 </item>  <!--122d-ር-->
+        <item name="ro"> 4654 </item>  <!--122e-ሮ-->
+        <item name="RW"> 4655 </item>  <!--122f-ሯ-->
+
+        <item name="se"> 4656 </item>  <!--1230-ሰ-->
+        <item name="su"> 4657 </item>  <!--1231-ሱ-->
+        <item name="si"> 4658 </item>  <!--1232-ሲ-->
+        <item name="sa"> 4659 </item>  <!--1233-ሳ-->
+        <item name="sE"> 4660 </item>  <!--1234-ሴ-->
+        <item name="s"> 4661 </item>  <!--1235-ስ-->
+        <item name="so"> 4662 </item>  <!--1236-ሶ-->
+        <item name="sW"> 4663 </item>  <!--1237-ሷ-->
+
+        <item name="Se"> 4920 </item>  <!--1230-ጸ-->
+        <item name="Su"> 4921 </item>  <!--1231-ጹ-->
+        <item name="Si"> 4922 </item>  <!--1232-ጺ-->
+        <item name="Sa"> 4923 </item>  <!--1233-ጻ-->
+        <item name="SE"> 4924 </item>  <!--1234-ጼ-->
+        <item name="S"> 4925 </item>  <!--1235-ጽ-->
+        <item name="So"> 4926 </item>  <!--1236-ጾ-->
+        <item name="SW"> 4927 </item>  <!--1237-ጿ-->
+
+        <item name="xe"> 4664 </item>  <!--1238-ሸ-->
+        <item name="xu"> 4665 </item>  <!--1239-ሹ-->
+        <item name="xi"> 4666 </item>  <!--123a-ሺ-->
+        <item name="xa"> 4667 </item>  <!--123b-ሻ-->
+        <item name="xE"> 4668 </item>  <!--123c-ሼ-->
+        <item name="x"> 4669 </item>  <!--123d-ሽ-->
+        <item name="xo"> 4670 </item>  <!--123e-ሾ-->
+        <item name="xW"> 4671 </item>  <!--123f-ሿ-->
+
+        <item name="qe"> 4672 </item>  <!--1240-ቀ-->
+        <item name="qu"> 4673 </item>  <!--1241-ቁ-->
+        <item name="qi"> 4674 </item>  <!--1242-ቂ-->
+        <item name="qa"> 4675 </item>  <!--1243-ቃ-->
+        <item name="qE"> 4676 </item>  <!--1244-ቄ-->
+        <item name="q"> 4677 </item>  <!--1245-ቅ-->
+        <item name="qo"> 4678 </item>  <!--1246-ቆ-->
+        <item name="qW"> 4679 </item>  <!--1247-ቋ--> // NOT CORRECT KEY OR WORD
+
+        <!--<item name=""> 4680 </item>  &lt;!&ndash;1248-&ndash;&gt;-->
+        <!--<item name=""> 4681 </item>  &lt;!&ndash;1249-&ndash;&gt;-->
+        <!--<item name=""> 4682 </item>  &lt;!&ndash;124a-&ndash;&gt;-->
+        <item name="qW"> 4683 </item>  <!--124b-ቋ-->
+        <!--<item name=""> 4684 </item>  &lt;!&ndash;124c-&ndash;&gt;-->
+        <!--<item name=""> 4685 </item>  &lt;!&ndash;124d-&ndash;&gt;-->
+        <!--<item name=""> 4686 </item>  &lt;!&ndash;124e-&ndash;&gt;-->
+        <!--<item name=""> 4687 </item>  &lt;!&ndash;124f-&ndash;&gt;-->
+
+        <item name="te"> 4720 </item>  <!--1270-ተ-->
+        <item name="tu"> 4721 </item>  <!--1271-ቱ-->
+        <item name="ti"> 4722 </item>  <!--1272-ቲ-->
+        <item name="ta"> 4723 </item>  <!--1273-ታ-->
+        <item name="tE"> 4724 </item>  <!--1274-ቴ-->
+        <item name="t"> 4725 </item>  <!--1275-ት-->
+        <item name="to"> 4726 </item>  <!--1276-ቶ-->
+        <item name="tW"> 4727 </item>  <!--1277-ቷ-->
+
+        <item name="ce"> 4728 </item>  <!--1278-ቸ-->
+        <item name="cu"> 4729 </item>  <!--1279-ቹ-->
+        <item name="ci"> 4730 </item>  <!--127a-ቺ-->
+        <item name="ca"> 4731 </item>  <!--127b-ቻ-->
+        <item name="cE"> 4732 </item>  <!--127c-ቼ-->
+        <item name="c"> 4733 </item>  <!--127d-ች-->
+        <item name="co"> 4734 </item>  <!--127e-ቾ-->
+        <item name="cW"> 4735 </item>  <!--127f-ቿ-->
+
+        <item name="Ce"> 4904 </item>  <!--1278-ጨ-->
+        <item name="Cu"> 4905 </item>  <!--1279-ጩ-->
+        <item name="Ci"> 4906 </item>  <!--127a-ጪ-->
+        <item name="Ca"> 4907 </item>  <!--127b-ጫ-->
+        <item name="CE"> 4908 </item>  <!--127c-ጬ-->
+        <item name="C"> 4909 </item>  <!--127d-ጭ-->
+        <item name="Co"> 4910 </item>  <!--127e-ጮ-->
+        <item name="CW"> 4911 </item>  <!--127f-ጯ-->
+
+
+        <item name="a"> 4768 </item> <!--አ-->
+        <item name="u"> 4769 </item>  <!--ኡ-->
+        <item name="i"> 4770 </item>  <!--ኢ-->
+        <item name="A"> 4771 </item> <!--ኣ-->
+        <item name="E"> 4772 </item> <!--ኤ-->
+        <item name="e"> 4773 </item>  <!--እ-->
+        <item name="o"> 4774 </item> <!--ኦ-->
+
+
+
+        <item name="ne"> 4752 </item>   <!--ነ-->
+        <item name="nu"> 4753 </item>   <!--ኑ-->
+        <item name="ni"> 4754 </item>  <!--ኒ-->
+        <item name="na"> 4755 </item> <!--ና-->
+        <item name="Ne"> 4756 </item> <!--ኔ-->
+        <item name="n"> 4757 </item>  <!--ን-->
+        <item name="no"> 4758 </item> <!--ኖ-->
+        <item name="nW"> 4759 </item> <!--ኗ-->
+
+        <item name="Ne"> 4760 </item>  <!--ኘ-->
+        <item name="Nu"> 4761 </item> <!--ኙ-->
+        <item name="Ni"> 4762 </item> <!--ኚ-->
+        <item name="Na"> 4763 </item> <!--ኛ-->
+        <item name="NE"> 4764 </item>  <!--ኜ-->
+        <item name="N"> 4765</item> <!--ኝ-->
+        <item name="No"> 4766 </item> <!--ኞ-->
+        <item name="NW"> 4767 </item> <!--ኟ-->
+
+        <item name="be"> 4704 </item>  <!--በ-->
+        <item name="bu"> 4705 </item> <!--ቡ-->
+        <item name="bi"> 4706 </item> <!--ቢ-->
+        <item name="ba"> 4707 </item> <!--ባ-->
+        <item name="bE"> 4708 </item> <!--ቤ-->
+        <item name="b"> 4709</item> <!--ብ-->
+        <item name="bo"> 4710 </item> <!--ቦ-->
+        <item name="BW"> 4711 </item> <!--ቧ-->
+
+        <item name="ve"> 4712 </item> <!--ቨ-->
+        <item name="vu"> 4713 </item> <!--ቩ-->
+        <item name="vi"> 4714 </item> <!--ቪ-->
+        <item name="va"> 4715 </item> <!--ቫ-->
+        <item name="vE"> 4716 </item> <!--ቬ-->
+        <item name="v"> 4717 </item>  <!--ቭ-->
+        <item name="vo"> 4718 </item> <!--ቮ-->
+        <item name="VW"> 4719 </item> <!--ቯ-->
+
+
+        <item name="je"> 4864 </item>  <!--ጀ-->
+        <item name="ju"> 4865 </item> <!--ጁ-->
+        <item name="ji"> 4866 </item> <!--ጂ-->
+        <item name="ja"> 4867 </item> <!--ጃ-->
+        <item name="jE"> 4868 </item> <!--ጄ-->
+        <item name="j"> 4869</item> <!--ጅ-->
+        <item name="jo"> 4870 </item> <!--ጆ-->
+        <item name="JW"> 4871 </item> <!--ጇ-->
+
+        <item name="ge"> 4872 </item> <!--ገ-->
+        <item name="gu"> 4873 </item> <!--ጉ-->
+        <item name="gi"> 4874 </item> <!--ጊ-->
+        <item name="ga"> 4875 </item> <!--ጋ-->
+        <item name="gE"> 4876 </item> <!--ጌ-->
+        <item name="g">4877</item> <!--ግ-->
+        <item name="go"> 4878 </item> <!--ጎ-->
+        <item name="gW"> 4879 </item> <!--ጓ-->
+
+        <!--done upto here-->
+        <item name="`1"> 4969 </item> <!--፩-->
+        <item name="`2"> 4970 </item> <!--፪-->
+        <item name="`3"> 4971 </item> <!--፫-->
+        <item name="`4"> 4972 </item> <!--፬-->
+        <item name="`5"> 4973 </item> <!--፭-->
+        <item name="`6"> 4974 </item> <!--፮-->
+        <item name="`7"> 4975 </item> <!--፯-->
+        <item name="`8"> 4976 </item> <!--፰-->
+        <item name="`9"> 4977 </item> <!--፱-->
+        <item name="`10"> 4977 </item> <!--፲-->
+
+
+    </am-lang>
+</resources>
